@@ -1,0 +1,62 @@
+.content{
+    margin-top: -20px;
+}
+
+.href a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5px;
+}
+a:hover ,a.on {
+    color:brown
+}
+a:hover{
+    color: brown;
+}
+#one {
+    font-size: 10px;
+    margin-left: 157px;
+    margin-top: -97px;
+}
+#two {
+    font-size: 5px;
+    margin-left: 157px;
+    margin-top: -13px;
+}
+#three{
+    color: rgb(181, 16, 16);
+    margin-left: 157px;
+    margin-top: -17px;
+    opacity: 34;
+}
+#four{
+    font-size: 3px;
+    margin-left: 157px;
+    margin-top: -13px;
+}
+#five{
+    font-size: 2px;
+    width: 100px;
+    margin-left: 157px;
+    margin-top: -7px;
+}
+.six{
+    margin-left: 157px;
+    font-size: 5px;
+    width: 80px;
+    height: 12px;
+    margin-top: 0px;
+    background-color: rgb(178, 178, 178) ;
+    border-color: black;
+    border-radius: 0px;
+    border: solid 0.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first{
+    
+    background-color: rgb(178, 178, 178);
+    height: 94px;
+}
